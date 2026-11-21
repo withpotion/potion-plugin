@@ -1,0 +1,17 @@
+{
+  "name": "potion",
+  "displayName": "Potion",
+  "version": "0.1.0",
+  "description": "Potion gives your assistant a podcast feed of your own. It narrates what your assistant writes or finds, and the episodes arrive in the podcast app you already use. New accounts get two hours of narration free.",
+  "author": {
+    "name": "9592 Solutions UG (haftungsbeschraenkt)",
+    "email": "christo@withpotion.io"
+  },
+  "homepage": "https://withpotion.io",
+  "repository": "https://github.com/withpotion/potion-plugin",
+  "license": "MIT",
+  "keywords": ["potion", "podcast", "rss", "text-to-speech", "audio", "briefing", "mcp"],
+  "logo": "assets/logo.png",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
